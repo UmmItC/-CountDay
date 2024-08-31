@@ -14,6 +14,7 @@ Countdown timer for the remaining days of the current year.
 Run locally with:
 
 ```shell
+npm install
 npm run dev
 ```
 
